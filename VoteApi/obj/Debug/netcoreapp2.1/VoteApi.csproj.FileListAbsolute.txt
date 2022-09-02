@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\bin\Debug\netcoreapp2.1\VoteApi.deps.json
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\bin\Debug\netcoreapp2.1\VoteApi.runtimeconfig.json
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\bin\Debug\netcoreapp2.1\VoteApi.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\bin\Debug\netcoreapp2.1\VoteApi.dll
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\bin\Debug\netcoreapp2.1\VoteApi.pdb
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.RazorAssemblyInfo.cache
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.RazorAssemblyInfo.cs
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.dll
+C:\Users\Pedro\source\repos\VoteApi\VoteApi\obj\Debug\netcoreapp2.1\VoteApi.pdb
